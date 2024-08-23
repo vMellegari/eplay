@@ -1,5 +1,4 @@
 import { useParams } from 'react-router-dom'
-import { useEffect, useState } from 'react'
 
 import Hero from '../../components/Hero'
 import Section from '../../components/Section'
